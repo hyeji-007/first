@@ -4,8 +4,11 @@ public class Code82 {
 
     public static void main(String[] args) {
         System.out.println("in the morning...");
-        System.out.println("in the morning...");
-        System.out.println("in the morning...");
+        greeting1();
+        System.out.println("in the afternoon...");
+        greeting2();
+        System.out.println("in the evening...");
+        greeting3();
     }
 
     public static void greeting1() {
